@@ -4,7 +4,6 @@ import com.vpam.picpay.controller.dto.CreateWalletDto;
 import com.vpam.picpay.entity.Wallet;
 import com.vpam.picpay.exception.WalletDataAlreadyExistsException;
 import com.vpam.picpay.reposittory.WalletRepository;
-import com.vpam.picpay.reposittory.WalletTypeRepository;
 import org.springframework.stereotype.Service;
 
 @Service

@@ -4,7 +4,6 @@ package com.vpam.picpay.controller;
 import com.vpam.picpay.controller.dto.CreateWalletDto;
 import com.vpam.picpay.entity.Wallet;
 import com.vpam.picpay.service.WalletService;
-import feign.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
